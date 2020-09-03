@@ -3,3 +3,6 @@ b) Powershell is fully supported by Azure on all platforms (linux, windows, MacO
 c) What is scalability - Scale out , scale up - scale down . Use auto scaling for critical scenarios.
 d) What is Elasticity - Abiltiy to quickly expand and decrease computing resources not just VM's.Elasticity enables scaling.
 e)Agility - Fast development , Test and launch softwares.
+f)fault Tolerant - It means zero down time to services provided by Azure.
+g) Disaster recovery - Plan to recover incase of failure and get back the data from the point of failure.
+
