@@ -1,3 +1,5 @@
 a) Azure CLI is text only way to manage resources through which we can pass structured commands.
 b) Powershell is fully supported by Azure on all platforms (linux, windows, MacOS) . It manages cmdlets and modules.
-c) 
+c) What is scalability - Scale out , scale up - scale down . Use auto scaling for critical scenarios.
+d) What is Elasticity - Abiltiy to quickly expand and decrease computing resources not just VM's.Elasticity enables scaling.
+e)Agility - Fast development , Test and launch softwares.
