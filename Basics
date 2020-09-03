@@ -6,3 +6,8 @@ e)Agility - Fast development , Test and launch softwares.
 f)fault Tolerant - It means zero down time to services provided by Azure.
 g) Disaster recovery - Plan to recover incase of failure and get back the data from the point of failure.
 
+Cloud Services Models
+=====================
+IaaS - virtaul servers, storage and networking services.
+PaaS - Middleware Tools - Database mgmt tools.
+SaaS - IaaS+PaaS and different types of apps.(like Office 365,SQL ,.. more)
