@@ -16,3 +16,35 @@ SaaS - IaaS+PaaS and different types of apps.(like Office 365,SQL ,.. more)
 difference between OPEX and CAPEX - Perational expense and Capital expense
 ================================
 OPEX is an ongoing cost for running a business. CAPEX is the cost of acquiring assets.
+
+
+Region and Availability zones
+============================
+a) Region is big geographical area and AZ are actual data centeres. In a region , there can be multiple AZ's.
+To choose a region keep 3 points in mind
+- Location : Choose a region closest to users to reduce latency.
+- Features - all services are not availble in all regions
+- Cost - price of services vary from region to region
+
+Resource Group and Azure Resource Manager
+=========================================
+Resource group - Everything inside Azure is actually inside Azure Resource group.While all the resources must be in a resource group but resource group is actually not a resource.
+It holds related resources that you need to manage for an application .
+Consider Resource group as Docker container. (Analogy).
+
+Facts on Resouce group
+======================
+- Each resource can only exist in single resource group.
+- You can add or remove any resouce to resource group at any time.
+- You can move resource from one resource group to another group.
+- Resources from multiple region can be in one group.
+- You can give user access to resource group and eveything in it.
+- Resources can interact with each other even if they are in different resource groups.
+- A resourec group has a location or region as it sstores the metadata about the resources in it. 
+
+Azure Resource Manager : Its deployment and management service for Azure.All the resource goes through ARM .
+======================
+If you want to use SQL go through ARM, If you want to use azure cloudshell go to ARM , or any other service.
+ARM API handles all these requests.
+
+facta are in video - DO learn.
