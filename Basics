@@ -1,0 +1,3 @@
+a) Azure CLI is text only way to manage resources through which we can pass structured commands.
+b) Powershell is fully supported by Azure on all platforms (linux, windows, MacOS) . It manages cmdlets and modules.
+c) 
