@@ -1,0 +1,19 @@
+a)Virtual Network or VNet which is similar to VPC in AWS . It defines a private network for comanies which allows their resources to communicate securely with in the network and outside
+the network .
+As the name suggestes , virtual network is virtual , its there for you but you cannot touch it , feel it as you dont have hardware access.Its abstracted.
+A Vnet belongs to single region and all the resources should also be in the same region.Howerver , cross region Vnet communication is possible.
+
+
+b) Address Space or IP address range - Each Vnet will have a address range from whihc it can assign IP address to its resources .
+c)Subnet - Subnet means segmentation of big network into smaller network . We do this because in this way it becomes easy to manage resources in the small networks.
+Securing a subnet is easy in comparison to securing a whole network.
+
+c) Load Balancer : Load balancer is used to manage the incoming traffic to other virtual machines so not just one VM will need to handle everything.
+We can put and design rules in load balancer to let it understand how does load balaner will balace the load , how will it handle user requests and so on....
+Scenarios where Load balacer can be used.
+- Internet traffic - explained above.
+- Internet networks - It can also be managed for internal applications.
+- Port Forwarding - Traffic can be forwarded to specific port to handle the traffic.
+- Outbound traffic.
+
+d) 
