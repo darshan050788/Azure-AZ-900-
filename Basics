@@ -87,4 +87,4 @@ It keeps track of current valid container images.It manages it files and artific
 
 Pod is the smallest unit in Kubernetes . A pod can have multiple containers with same specification and features , dependencies and libraries.
 
-Azure Functions : Its similar to lambda function.
+Azure Functions : Its similar to lambda function. You will be charged only when function executes on request .
