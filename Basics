@@ -48,3 +48,20 @@ If you want to use SQL go through ARM, If you want to use azure cloudshell go to
 ARM API handles all these requests.
 
 facta are in video - DO learn.
+=============================================
+
+Virtual machine : VM are the core of Azure compute and widely used.
+================
+- A VM is your machine exclusively.
+- No need to buy , control hardware , Azure does it all.
+- Pricing go as per resources additon but model is same pay as you goor pay by hour.
+
+
+Scale sets: Create a VM from an exisiting VM .Its similar to Instance groups concept.This provides high availabilty to the applications.
+===========
+
+Hence VM and scale sets are part of IaaS services
+====================================================
+
+
+App Service- Its fully managed app service.Servers network , storage all handled by App service . You just need to worry about code and business logic.
