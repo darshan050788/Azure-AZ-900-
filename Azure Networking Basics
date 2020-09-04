@@ -16,4 +16,4 @@ Scenarios where Load balacer can be used.
 - Port Forwarding - Traffic can be forwarded to specific port to handle the traffic.
 - Outbound traffic.
 
-d) 
+d) VPN Gateway - VPN Gateway is a specoic type of virtaul network gateway that is used to send encrypted traffic between Azure resources with in VNet and pulic internet.
