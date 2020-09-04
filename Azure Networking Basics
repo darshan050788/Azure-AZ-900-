@@ -17,3 +17,14 @@ Scenarios where Load balacer can be used.
 - Outbound traffic.
 
 d) VPN Gateway - VPN Gateway is a specoic type of virtaul network gateway that is used to send encrypted traffic between Azure resources with in VNet and pulic internet.
+e) Application Gateway : Its a high level kind of Load balancer. Load balancer can take inbound internet traffic and distribute it on the VM's which are in backend pool . It recognizes the 
+traffic on the basis of IP address or send the request to specific port (port forwarding) .
+However, Application gateway makes use of applications like HTTP request, URI header . So by updating these values in application load balancer configuration we can handle traffic by using some
+different parameteres.
+- Easy scalebale.
+- E2E encryption
+- Multi AZ service.
+- Multi site hosting.
+
+f) CDN - COntent delivery network - Used for content caching , 
+Cache the data at nearest location where usesr are so application wont have to fetch the data from the original machine.It keeps the copy of data at edge nodes.
