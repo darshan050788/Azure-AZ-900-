@@ -64,4 +64,9 @@ Hence VM and scale sets are part of IaaS services
 ====================================================
 
 
-App Service- Its fully managed app service.Servers network , storage all handled by App service . You just need to worry about code and business logic.
+App Service- Its fully managed app service.Servers network , storage all handled by App service . You just need to worry about code and business logic.its simiar to App engine in GCP.
+=========
+App service is PaaS.
+So App service comes in two flavours - Web App and COntainer App service.
+Webapp - runs of linux and windows, supports all sorts of languages, easy to integrate with Azure services and supports auto scaling and load balancing.
+Container - We know that already . Runs container.
