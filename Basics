@@ -70,3 +70,21 @@ App service is PaaS.
 So App service comes in two flavours - Web App and COntainer App service.
 Webapp - runs of linux and windows, supports all sorts of languages, easy to integrate with Azure services and supports auto scaling and load balancing.
 Container - We know that already . Runs container.
+
+
+Azure container Instances
+========================
+Its primary Azure service to run container workloads.Workload is process or application.Its ondemand service and follow pay as you go model.
+
+Azure Kubernetes service
+========================
+Its used for management for so many containers.Open source container orchestration, managment ,application deployment and scaling service.
+
+Azure container registery
+=========================
+Its similar to Docker service but ACR is Microsoft managed service.
+It keeps track of current valid container images.It manages it files and artificats. Use of Azure identity and security to allowed to authenticate container images authenticity.
+
+Pod is the smallest unit in Kubernetes . A pod can have multiple containers with same specification and features , dependencies and libraries.
+
+Azure Functions : Its similar to lambda function.
