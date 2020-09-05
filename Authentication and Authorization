@@ -1,0 +1,7 @@
+Authentication - It means to identify yourself and provide an identity such as username and password which justifies you are you not soneone else.Its simply conforming your identity.
+Always first test for success.
+
+Authorization - Authorization always comes after authentocation success . Authorization means Ok you have authenticated yourself but do you have access to service ?
+its where we can granular control . It means for a service if you are authorized aceess what kind of access ( read, write, both or  no access at all ).
+
+
