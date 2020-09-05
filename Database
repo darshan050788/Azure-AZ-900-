@@ -1,3 +1,18 @@
 Database is something where you can easily manage your data and search them easily. Azure can handle all types of data - SQL or NO SQL.
 
 Cosmos DB - 
+- Cosmos DB is available across all regions and if you want to enable it for all regions considering you users fanbase , it can happen with just one click in Azure portal.
+- Azure also takes care of synchrozing data across all region wherever you have enabled CosmosDB.
+- Reduced latency when you have data at multiple regions and close to users.
+- Easy scalability
+
+Azure SQL - SQL , we all know one of flagship product of microsoft since 90's. Azure will take care of Infrastructre to setup Azure SQL and we just need to focus on business logic.
+Onpremise SQL servers can be easily migrated to Azure SQL.
+
+Azure MySQL - MySQL is open source.
+
+Azure PostGreSQL - Its also open source.Free and stable. Ideal for Online shopping websites and where mathemtical transations happen.
+
+Database migration services : Azure has dedicated database migration service . A step by step guide will help to migrate data.
+
+
