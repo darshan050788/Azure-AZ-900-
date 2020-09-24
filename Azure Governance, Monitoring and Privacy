@@ -1,0 +1,43 @@
+
+Governance
+============- 
+Governance on Azure is set of rules,policies and roles to define acceptable use of Azure resources.
+Policy - Its a set of rules so a standard can be definer for everyone on how to use Azure resources.
+Role based access control (RBAC) - Helpful in defining which user has access to which resource.
+Give minimum access as per job role only.
+Azure Blueprints - They are azure templates to create resources.
+
+Exam tips 
+============
+- Governance keeps you compliant and keeps you out of trouble.
+- Azure policy ensures that policy applied on resources are compliant.
+- A policy is a set of rules.
+- RBAC ensures user compliance through assigning a role to a user. A role is a combination of security principal , role definition and scope.
+- Locks make sure that subscription , resource groups and resources are not modfied and not chanaged if a lock has been applied on them.
+
+
+Azure Monitor
+==============
+Azure helps you monitor the resources from Azure monitor . You can easily and quickly understand and see which resource is not working to its full efficency and generation errors.
+Query language and Machine learning are also helpful to predict the data of failure to avoid any future loss.
+
+Azure Service Health
+====================
+Azure also needs to update and make it more healthy like any other computing infra and at that time Azure will notify their users about their big change .
+It includes planned and unplanned events in the infrastructure.
+Its a free service.
+
+Azure Compliance
+=================
+- Azure compliance manager is a dashboard from where you can see if your resources and data are following international rules and regulations decided by NIST US federal
+, ISO regulations and GDPR norms.
+Azure complaince manager can do it because it has all the resources and data to evaluate the whole process . ALl these norms and regulations are predefined in the compimance manager.
+
+Privacy : Microsoft has their own privacy policy .
+========
+
+Trust : 
+=======
+Trust center of Microsoft Azure gives you idea how MS is managing and maintaing customer trust by putting a lot of effort on GDPR,INST and other federal regulations.
+Its a hub for more info on trust, product and services.
+You can also review theor trust portal.
