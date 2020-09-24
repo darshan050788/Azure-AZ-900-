@@ -1,0 +1,17 @@
+Azure pricing and subscription
+=============================
+
+Managing prices for any cloud services is major and imp task.
+All the resources are associated with a subscription and subscription is directly tied with the account holder identity. There can be multiple subscriptions in an account and thats
+the best way to manage subscription for each department.
+Finance will have their own subscription, Sales team will have their, Admin team, Dev team etc....
+Its easy to manage budgets and pay the amount when invoice generates by Microsoft Azure.
+
+- A billing cycle on Azure is 30 or 60 days.
+
+Management group
+================
+- Its used to manage when you have multiple subscriptions. YOu can manage access , policies and compliance in bulk.
+Cost Management
+==============
+Azure cost mgmt will be available on portal to check costs.
