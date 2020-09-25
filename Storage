@@ -1,1 +1,95 @@
 
+Storage : Its something in which we can store data.
+Types of storage.
+- Blob - Very verstaile storage type.
+- Disk - Store the data on disk.
+- File - Fully managed file storage to expand storage in on-premise data.
+- Archive - To store and cheaper way to store massive amounts of data.
+
+In Azure , storage account is unique namespace which means a link will be created which is unique. Its similar to Gcloud (gs://<name of storage bucket).
+Every object in Azure has its own web address.
+
+For example - my account name is acloudguru
+then my storage name would be - acloudguru.<storage type>.core.windows.net
+
+================================
+
+Blob Storage-  Blob stands for Binary large object. SO blob is any data (bits and bytes ). In Blob storage , all these items are stored which are blobs stored in 
+large containers and each blob will have a unqiue address thus it becomes easy to search the blob in Storage account.
+It can store everything - images, audio, videos, log files , big backup data.
+3 Types of blob storage : 
+Block Blob - Store text and binary data upto 4.7TB. made up of individually managed block of data.
+==========
+Append BLob- Its used for append data . Mostly used for virtual machine log files.
+==========
+Page - store files upto 8 TB.Any part of the file could be accessed anytime.Virtual hard disk.
+
+=============================================================================
+
+Pricing Tiers for Blob - Hot ,Cool and Archive.
+Hot- Frquenclty accessed files and high access cost.
+Cool - Lower storage cost and high access time. Data remians here for atleast 30 days.
+Archive - Lowest cost and high access time.
+
+============================================================================
+Disk STorage - Directly attached to VM and azure manages the uptime and backup  of disk . We dont have to look after the disk.Azure guaranttee the performance.
+Type of disks : 
+a) HDD - Spinning hard drive ,low cost and suitable for backups and test enviornment.
+b) Standard SSD - Good to use for production scenarios.High reliablity and scalability and low latency.
+c) Premium SSD - SUper fast , high performance and used for critical workloads. Low latency - fast data retrival.
+d) Ultra disk - For the most demanding data , data drievn workloads, Disks upto 64 TB. lOwest millisecond latency rate - SUper fast retreval.
+
+================================================================================
+
+File STorage
+=============
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
